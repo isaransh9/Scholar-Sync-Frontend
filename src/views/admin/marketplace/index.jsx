@@ -5,7 +5,7 @@ import HistoryCard from "./components/HistoryCard";
 import TopCreatorTable from "./components/TableTopCreators";
 import CollabPostCard from "components/card/CollabPost";
 import { getAllJobPost, getJobsOfSameCollege } from "../../../constants/api";
-import { data1, data2 } from "../../../constants/useCardData";
+// import { data1, data2 } from "../../../constants/useCardData";
 import { useState, useEffect } from "react";
 
 const Marketplace = () => {
